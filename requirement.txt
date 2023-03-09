@@ -6,4 +6,6 @@ SpeechRecognition==3.9.0
 wikipedia==1.4.0
 Flask==1.1.2
 Pillow==9.0.1
-
+portaudio==19.6.0
+wheel==0.37.1
+pyaudio==0.2.13
