@@ -7,3 +7,5 @@ wikipedia==1.4.0
 Flask==1.1.2
 Pillow==9.0.1
 PyAudio==0.2.13
+PortAudio==19.0.3
+cffi==1.14.6
