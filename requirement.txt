@@ -1,10 +1,4 @@
-
-GitPython==3.1.31
+Flask==1.1.2
+PyAudio==0.2.13
 pyttsx3==2.90
 pywhatkit==5.4
-SpeechRecognition==3.9.0
-wikipedia==1.4.0
-Flask==1.1.2
-Pillow==9.0.1
-wheel==0.37.1
-pyaudio==0.2.13
