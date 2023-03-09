@@ -1,5 +1,4 @@
 
-anaconda-navigator==2.1.4
 GitPython==3.1.31
 google-api-core @ file:///C:/ci/google-api-core-split_1613980333946/work
 googletrans==3.0.0
