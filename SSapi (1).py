@@ -10,7 +10,7 @@
 # In[2]:
 
 
-import smart_shopper_assistant (1)
+import smart_shopper_assistant
 
 
 # In[3]:
@@ -27,7 +27,7 @@ app=Flask(__name__)
 @app.route('/run_lady',methods=['GET'])
 def run_lady():
     data=request.json
-    result=smart_shopper_assistant (1).run_lady()
+    result=smart_shopper_assistant.run_lady()
     return result
 
 @app.route('/greet',methods=['GET'])
