@@ -9,7 +9,7 @@ RUN apt-get update && \
     
 WORKDIR /SSapi (1)
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirement.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 CMD ["python", "SSapi (1).py"]    
