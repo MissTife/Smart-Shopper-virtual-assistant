@@ -6,4 +6,4 @@ SpeechRecognition==3.9.0
 wikipedia==1.4.0
 Flask==1.1.2
 Pillow==9.0.1
-
+gunicorn-20.1.0
