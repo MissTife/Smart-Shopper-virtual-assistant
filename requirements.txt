@@ -6,3 +6,4 @@ SpeechRecognition==3.9.0
 wikipedia==1.4.0
 Jinja2==2.11.3
 MarkupSafe==2.0.1
+itsdangerous==2.0.1
