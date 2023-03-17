@@ -5,7 +5,7 @@ an ecommerce web app called Smart Shopper
 1. Voice recognition
 2. Speech to text
 3. API that can be accessed
-## Algorithms for virttual assistant
+## Algorithms for virtual assistant
 1.  install and Import Required Libraries.
 2. initialize speech recognition:initialize the speech recognition object
 3. initialize Text to speech object
